@@ -40,6 +40,8 @@ public class Accomodation extends Application {
      */
     //main method
     public static void main(String[] args) {
+        System.out.println("hello there! i made a change that is not relavant");
+        
         launch(args);
     }
     
